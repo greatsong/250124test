@@ -1,0 +1,3 @@
+matplotlib
+koreanize_matplotlib
+plotly
